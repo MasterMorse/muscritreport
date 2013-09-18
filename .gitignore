@@ -30,3 +30,11 @@
 *.vrb
 *.xdy
 *.tdo
+*.pdf
+*.png
+*.jpg
+*.doc
+*.docx
+*.odt
+*~
+*.bak
